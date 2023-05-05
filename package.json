@@ -1,0 +1,22 @@
+{
+  "name": "testowanie-ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RadekKilijanek/testowanie-ecommerce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RadekKilijanek/testowanie-ecommerce/issues"
+  },
+  "homepage": "https://github.com/RadekKilijanek/testowanie-ecommerce#readme",
+  "devDependencies": {
+    "cypress": "^12.11.0"
+  }
+}
