@@ -15,5 +15,6 @@ describe('Test Account page', () => {
         accountPage.fillUsernameFieldWithEmail(this.UserData.email)
         accountPage.fillPasswordField(this.UserData.password)
         accountPage.clickLoginButton()
+        accountPage.checkVisibilityOfMyAccountNavigation()
     })
 })
